@@ -1,0 +1,1474 @@
+﻿Log file open, 11/18/19 21:31:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MonsterComing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.437675
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:593][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.18-10.31.44:593][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.18-10.31.44:594][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.18-10.31.44:595][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.18-10.31.44:595][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.18-10.31.44:595][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:595][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:693][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:693][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-10.31.44:693][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-10.31.44:693][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-10.31.44:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-10.31.44:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-10.31.44:696][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-10.31.44:697][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-10.31.44:698][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-10.31.44:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-10.31.44:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-10.31.44:749][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-10.31.44:749][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-10.31.44:854][  0]LogHAL: Display: Platform has ~ 16 GB [17018613760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-10.31.44:875][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.18-10.31.44:875][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-10.31.44:876][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-10.31.44:876][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-10.31.44:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-10.31.44:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-10.31.44:879][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-10.31.44:880][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-10.31.44:881][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-10.31.44:881][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-10.31.44:881][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-10.31.44:881][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.18-10.31.44:920][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.18-10.31.44:920][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.18-10.31.44:920][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.18-10.31.44:952][  0]LogInit: Computer: MSI
+[2019.11.18-10.31.44:952][  0]LogInit: User: Andre
+[2019.11.18-10.31.44:952][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.18-10.31.44:952][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-10.31.44:953][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.18-10.31.44:953][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-10.31.44:953][  0]LogMemory: Process Physical Memory: 99.04 MB used, 99.04 MB peak
+[2019.11.18-10.31.44:953][  0]LogMemory: Process Virtual Memory: 98.49 MB used, 98.49 MB peak
+[2019.11.18-10.31.44:953][  0]LogMemory: Physical Memory: 7152.99 MB used,  9077.23 MB free, 16230.21 MB total
+[2019.11.18-10.31.44:953][  0]LogMemory: Virtual Memory: 4669.08 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.18-10.31.47:592][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-10.31.47:592][  0]LogInit: Using OS detected locale (en-AU).
+[2019.11.18-10.31.47:652][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-10.31.49:197][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.18-10.31.50:146][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-10.31.50:146][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-10.32.00:018][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.18-10.32.00:018][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-10.32.02:674][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.18-10.32.02:674][  0]LogD3D11RHI:       4021/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.18-10.32.02:739][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.18-10.32.02:739][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.18-10.32.02:749][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-10.32.02:749][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-10.32.02:750][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-10.32.02:891][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-10.32.02:892][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-10.32.02:892][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-10.32.02:892][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.18-10.32.02:893][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.18-10.32.02:894][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.18-10.32.02:895][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.18-10.32.02:895][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.18-10.32.02:895][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.18-10.32.02:895][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.18-10.32.02:895][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.11.18-10.32.03:104][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-10.32.03:465][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-10.32.03:468][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-10.32.03:468][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-10.32.03:507][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.18-10.32.06:232][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.18-10.32.06:389][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.18-10.32.06:494][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.18-10.32.06:633][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.18-10.32.06:871][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.18-10.32.07:025][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.18-10.32.07:158][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.18-10.32.07:269][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.18-10.32.07:350][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.18-10.32.07:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.18-10.32.07:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.18-10.32.07:941][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.18-10.32.08:352][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.18-10.32.08:352][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.18-10.32.08:543][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.18-10.32.08:543][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.18-10.32.08:686][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.18-10.32.08:794][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.18-10.32.08:905][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.18-10.32.09:132][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.18-10.32.09:402][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.18-10.32.09:402][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.18-10.32.09:402][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-10.32.09:834][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.18-10.32.11:654][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Intermediate/Shaders/WorkingDirectory/18672/).
+[2019.11.18-10.32.11:654][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andre/AppData/Local/Temp/UnrealShaderWorkingDir/4F849F6043D1D8B8BA4EC785D8849302/'.
+[2019.11.18-10.32.11:667][  0]LogXGEController: Cleaning working directory: C:/Users/Andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-10.32.11:668][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-10.32.11:669][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-10.32.11:669][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-10.32.22:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-10.32.23:212][  0]LogDerivedDataCache: Loaded boot cache 0.76s 71MB C:/Users/Andre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-10.32.23:212][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.18-10.32.23:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-10.32.23:212][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-10.32.23:213][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-10.32.23:213][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-10.32.23:388][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-10.32.23:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-10.32.23:388][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.18-10.32.23:403][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-10.32.23:403][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-10.32.23:403][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-10.32.23:533][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-10.32.23:729][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-10.32.23:878][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-10.32.26:425][  0]LogAssetRegistry: FAssetRegistry took 0.0930 seconds to start up
+[2019.11.18-10.32.32:001][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-10.32.35:305][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-10.32.35:305][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.18-10.32.35:305][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-10.32.35:306][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.18-10.32.35:306][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.18-10.32.35:777][  0]LogNetVersion: MonsterComing 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1620694314)
+[2019.11.18-10.32.42:255][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.148905 seconds
+[2019.11.18-10.32.42:301][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.18-10.32.42:301][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.18-10.32.42:301][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-10.33.04:980][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-10.33.05:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-10.33.07:131][  0]SourceControl: Source control is disabled
+[2019.11.18-10.33.07:148][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:148][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.18-10.33.07:150][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:150][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.18-10.33.07:151][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:151][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.18-10.33.07:152][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:152][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.18-10.33.07:153][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:153][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.18-10.33.07:154][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:154][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.18-10.33.07:156][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:156][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.18-10.33.07:356][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:356][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.18-10.33.07:357][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:357][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.18-10.33.07:358][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:358][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.18-10.33.07:359][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:359][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.18-10.33.07:360][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:360][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.18-10.33.07:361][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:361][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.18-10.33.07:362][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:362][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.18-10.33.07:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:537][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.18-10.33.07:539][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:539][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.18-10.33.07:540][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:540][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.18-10.33.07:542][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:542][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.18-10.33.07:543][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:543][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.18-10.33.07:544][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:544][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.18-10.33.07:546][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.07:546][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.18-10.33.11:266][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-10.33.14:646][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-10.33.19:582][  0]LogEngine: Initializing Engine...
+[2019.11.18-10.33.19:786][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.18-10.33.19:792][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.11.18-10.33.20:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-10.33.21:755][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-10.33.22:178][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.18-10.33.22:445][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-10.33.22:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.18-10.33.23:070][  0]LogDerivedDataCache: Saved boot cache 0.62s 71MB C:/Users/Andre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-10.33.23:101][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-10.33.23:490][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-10.33.24:872][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-10.33.25:633][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-10.33.29:195][  0]LocalizationService: Localization service is disabled
+[2019.11.18-10.33.34:414][  0]LogAutoReimportManager: Warning: Unable to watch directory C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/ as it will conflict with another watching C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/.
+[2019.11.18-10.33.34:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/' took 0.04s
+[2019.11.18-10.33.34:484][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-10.33.34:484][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-10.33.41:608][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:608][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.18-10.33.41:609][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:609][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.18-10.33.41:610][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:610][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.18-10.33.41:611][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:611][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.18-10.33.41:612][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:612][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.18-10.33.41:613][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:613][  0]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.18-10.33.41:614][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.18-10.33.41:614][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.18-10.33.41:656][  0]Cmd: MAP LOAD FILE="C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-10.33.41:657][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.18-10.33.41:686][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-10.33.41:690][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.822ms to complete.
+[2019.11.18-10.33.41:690][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.063
+[2019.11.18-10.33.43:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.33.43:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.33.43:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.33.43:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.33.43:597][  0]LogCollectionManager: Loaded 0 collections in 0.005882 seconds
+[2019.11.18-10.33.43:724][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Saved/Collections/' took 0.01s
+[2019.11.18-10.33.43:724][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/Developers/Andre/Collections/' took 0.00s
+[2019.11.18-10.33.43:724][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/Collections/' took 0.01s
+[2019.11.18-10.33.43:724][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.18-10.33.43:769][  0]LogContentBrowser: Native class hierarchy populated in 0.0449 seconds. Added 2732 classes and 659 folders.
+[2019.11.18-10.33.43:824][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.11.18-10.33.43:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.43:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.44:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-10.33.46:754][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.11.18-10.33.46:869][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.11.18-10.33.47:733][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.11.18-10.33.47:733][  0]LogLoad: (Engine Initialization) Total time: 163.00 seconds
+[2019.11.18-10.33.47:733][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-10.33.48:157][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-10.33.48:308][  0]LogSlate: Took 0.075392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-10.33.48:357][  0]LogSlate: Took 0.042847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-10.33.48:539][  0]LogSlate: Took 0.144644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-10.33.49:711][  0]LogSlate: Took 0.070461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-10.33.49:795][  1]LogRenderer: Reallocating scene render targets to support 824x444 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-10.33.49:985][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/' took 2.10s
+[2019.11.18-10.33.50:029][  1]LogAssetRegistry: Asset discovery search completed in 83.6475 seconds
+[2019.11.18-10.33.50:052][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.11.18-10.33.50:052][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000191 seconds (updated 0 objects)
+[2019.11.18-10.33.52:043][  2]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-10.33.52:060][  2]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Assets/Blueprints/NewLevelSequence_01.NewLevelSequence_01
+[2019.11.18-10.33.53:893][  2]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.18-10.33.54:251][  2]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(57)].
+[2019.11.18-10.33.57:894][  2]LogTexture: Display: Building textures: TurretCreationImage2 (AutoDXT, 200X200)
+[2019.11.18-10.33.57:894][  2]LogMaterial: Display: Missing cached shader map for material MT_TurretCreation, compiling. 
+[2019.11.18-10.34.00:526][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.18-10.34.02:533][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 121 classes and 0 folders.
+[2019.11.18-10.34.08:430][  2]LogSlate: Took 0.041686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-10.34.10:453][  3]LogSlate: Took 0.061728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-10.39.04:130][180]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.11.18-10.39.04:130][180]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.11.18-10.39.04:130][180]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.11.18-10.39.04:130][180]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.11.18-10.39.04:131][180]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2019.11.18-10.39.04:131][180]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.11.18-10.39.04:131][180]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.11.18-10.39.04:131][180]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.11.18-10.39.04:152][180]LogAIModule: Creating AISystem for world Level1
+[2019.11.18-10.39.04:444][180]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/Maps/Level1.Level1
+[2019.11.18-10.39.04:656][180]LogUObjectHash: Compacting FUObjectHashTables data took  15.58ms
+[2019.11.18-10.39.04:686][180]Cmd: MAP LOAD FILE="C:/Users/Andre/Documents/GitHub/Studio1_Team3/MonsterComing/Content/Assets/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-10.39.04:697][180]LightingResults: New page: Lighting Build
+[2019.11.18-10.39.04:726][180]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2019.11.18-10.39.04:727][180]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0009 seconds. Added 5 classes and 0 folders.
+[2019.11.18-10.39.04:732][180]LoadErrors: New page: Loading map: Level1.umap
+[2019.11.18-10.39.04:777][180]MapCheck: New page: Map Check
+[2019.11.18-10.39.04:777][180]LightingResults: New page: Lighting Build
+[2019.11.18-10.39.05:026][180]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.11.18-10.39.05:171][180]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-10.39.05:316][180]LogUObjectHash: Compacting FUObjectHashTables data took  10.29ms
+[2019.11.18-10.39.05:455][180]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-10.39.05:456][180]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.428ms to complete.
+[2019.11.18-10.39.05:456][180]LogFileHelpers: Loading map 'Level1' took 0.769
+[2019.11.18-10.39.09:379][236]LogRenderer: Reallocating scene render targets to support 908x444 Format 10 NumSamples 1 (Frame:53).
+[2019.11.18-10.39.10:378][258]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-10.39.10:814][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.18-10.39.10:815][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-10.39.10:934][258]PIE: New page: PIE session: Level1 (19 Nov 2019 8:39:10 am)
+[2019.11.18-10.39.10:975][258]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Level1
+[2019.11.18-10.39.11:037][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060837s)
+[2019.11.18-10.39.11:038][258]LogAIModule: Creating AISystem for world Level1
+[2019.11.18-10.39.11:039][258]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2019.11.18-10.39.11:039][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Level1.Level1 to /Game/Assets/Maps/UEDPIE_0_Level1.Level1 (0.063881s)
+[2019.11.18-10.39.11:257][258]LogUObjectHash: Compacting FUObjectHashTables data took  17.57ms
+[2019.11.18-10.39.11:439][258]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.18-10.39.11:646][258]LogInit: FAudioDevice initialized.
+[2019.11.18-10.39.11:703][258]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.18-10.39.11:727][258]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.11.18-21.39.11
+[2019.11.18-10.39.11:892][258]LogWorld: Bringing up level for play took: 0.180184
+[2019.11.18-10.39.11:966][258]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.18-10.39.11:979][258]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.18-10.39.11:980][258]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.11.18-10.39.11:986][258]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_0_Level1 0.972
+[2019.11.18-10.39.11:986][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.18-10.39.13:354][259]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/Widgets/IngameUI.IngameUI_C:GetText_0
+
+[2019.11.18-10.39.23:916][572]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.18-10.39.27:134][666]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2019.11.18-10.39.27:134][666]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2019.11.18-10.39.31:244][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.18-10.39.32:639][830]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.18-10.39.44:182][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:215][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:249][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:282][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:317][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:351][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:385][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:419][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:452][184]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:484][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:515][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:551][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:582][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:617][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:649][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:682][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:716][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:750][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:784][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:819][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:849][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:881][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:914][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:948][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.44:983][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:019][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:059][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:083][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:118][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:149][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:184][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:219][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:255][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:284][209]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:316][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:350][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:384][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:416][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:453][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:492][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:518][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:554][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:591][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:621][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:652][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:684][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:717][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:751][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:783][224]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:818][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:854][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:885][227]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:921][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:953][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.45:987][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:026][231]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:055][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:086][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:117][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:155][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:184][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:217][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:252][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:283][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:316][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:350][241]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:384][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:421][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:451][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:483][245]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:515][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:549][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:583][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:616][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:650][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:682][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:716][252]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:750][253]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:784][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:818][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:850][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:885][257]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:917][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:949][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.46:983][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:019][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:051][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:085][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:121][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:152][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:185][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:221][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:255][268]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:292][269]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:322][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:356][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:385][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:419][273]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:458][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:486][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:520][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:558][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:590][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:625][279]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:653][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:683][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:717][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:751][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:784][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:817][285]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:850][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:883][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:917][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:952][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.47:984][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:018][291]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:055][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:087][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:117][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:152][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:185][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:216][297]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:250][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:283][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:317][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:349][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:381][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:415][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:448][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:481][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:515][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:546][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:580][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:614][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:648][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:684][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:717][312]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:750][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:784][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:816][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:849][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:883][317]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:916][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:949][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.48:981][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:014][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:048][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:082][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:116][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:149][325]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:182][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:217][327]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:250][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:290][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:317][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:350][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:383][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:415][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:449][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:482][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:518][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:550][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:585][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:622][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:651][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:684][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:717][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:750][343]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:782][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:815][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:849][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:882][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:916][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:949][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.49:983][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:019][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:051][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:085][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:120][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:158][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:193][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:226][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:263][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:286][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:325][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:359][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:390][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:423][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:455][364]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:488][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:523][366]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:555][367]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:588][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:620][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:655][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:689][371]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:721][372]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:754][373]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:786][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:819][375]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:854][376]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:885][377]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:918][378]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:952][379]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.50:995][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:022][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:057][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:086][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:119][384]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:154][385]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:188][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:224][387]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:257][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:289][389]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:324][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:353][391]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:388][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:421][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:454][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:488][395]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:521][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:552][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:585][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:620][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:656][400]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:690][401]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:726][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:763][403]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:787][404]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:823][405]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:858][406]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:888][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:927][408]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:958][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.51:993][410]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:024][411]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:058][412]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:088][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:120][414]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:155][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:189][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:223][417]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:256][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:288][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:320][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:353][421]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:391][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:422][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:458][424]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:488][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:524][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:557][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:591][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:621][429]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:654][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:686][431]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:722][432]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:753][433]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:786][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:820][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:856][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:889][437]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:921][438]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:956][439]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.52:986][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:022][441]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:053][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:089][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:120][444]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:153][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:188][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:221][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:253][448]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:287][449]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:320][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:354][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:388][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:420][453]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:454][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:487][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:518][456]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:554][457]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:586][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:620][459]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:652][460]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:690][461]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:720][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:752][463]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:784][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:817][465]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:850][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:883][467]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:918][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:950][469]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.53:983][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:020][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:058][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:089][473]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:122][474]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:156][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:192][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:224][477]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:256][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:289][479]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:321][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:354][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:387][482]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:422][483]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:454][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:487][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:519][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:554][487]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:587][488]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:621][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:654][490]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:688][491]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:726][492]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:757][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:792][494]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:824][495]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:857][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:891][497]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:924][498]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:957][499]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.54:995][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:024][501]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:056][502]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:090][503]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:122][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:156][505]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:190][506]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:216][507]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:249][508]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:282][509]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:315][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:350][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:383][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:415][513]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:454][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:486][515]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:522][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:550][517]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:583][518]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:616][519]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:651][520]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:684][521]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:722][522]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:750][523]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:783][524]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:816][525]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:849][526]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:882][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:915][528]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:955][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.55:982][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:015][531]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:048][532]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:081][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:112][534]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:146][535]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:179][536]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:213][537]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:246][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:278][539]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:312][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:349][541]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:380][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:414][543]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:447][544]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:483][545]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:514][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:549][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:580][548]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:613][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:646][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:679][551]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:713][552]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:746][553]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:779][554]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:816][555]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:849][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:882][557]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:914][558]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:949][559]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.56:985][560]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:015][561]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:050][562]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:081][563]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:116][564]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:148][565]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:181][566]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:217][567]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:255][568]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:286][569]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:316][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:350][571]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:383][572]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:415][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:449][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:483][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:517][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:550][577]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:582][578]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:616][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:649][580]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:682][581]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:715][582]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:748][583]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:780][584]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:814][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:847][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:880][587]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:915][588]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:950][589]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.57:983][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:016][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:049][592]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:084][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:118][594]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:150][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:190][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:216][597]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:247][598]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:281][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:313][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:346][601]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:379][602]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:413][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:446][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:480][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:512][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:547][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:580][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:613][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:645][610]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:680][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:713][612]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:748][613]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllTargets' of length 0 in '/Game/Assets/Blueprints/Turret_Blueprints/BP_Turret.BP_Turret_C'!
+[2019.11.18-10.39.58:751][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.18-10.39.58:752][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.39.58:844][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-10.39.58:845][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.18-10.39.59:019][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-10.39.59:137][613]LogUObjectHash: Compacting FUObjectHashTables data took  22.66ms
+[2019.11.18-10.39.59:278][614]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.18-10.40.00:313][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-10.40.00:582][648]LogUObjectHash: Compacting FUObjectHashTables data took  10.08ms
+[2019.11.18-10.40.03:123][648]LogSlate: Window 'Save Content' being destroyed
+[2019.11.18-10.40.03:871][648]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.18-10.40.04:141][648]LogSlate: Window 'Sequencer' being destroyed
+[2019.11.18-10.40.04:152][648]LogSlate: Window 'MonsterComing - Unreal Editor' being destroyed
+[2019.11.18-10.40.04:778][649]Cmd: QUIT_EDITOR
+[2019.11.18-10.40.05:977][649]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.18-10.40.06:025][649]LogExit: Preparing to exit.
+[2019.11.18-10.40.07:058][649]LogExit: Editor shut down
+[2019.11.18-10.40.07:059][649]LogExit: Transaction tracking system shut down
+[2019.11.18-10.40.08:227][649]LogExit: Object subsystem successfully closed.
+[2019.11.18-10.40.08:411][649]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.18-10.40.08:423][649]LogD3D11RHI: Shutdown
+[2019.11.18-10.40.08:423][649]LogD3D11RHI: CleanupD3DDevice
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-10.40.08:425][649]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-10.40.08:437][649]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.18-10.40.08:802][649]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module StatsViewer (646)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module SequencerWidgets (642)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2019.11.18-10.40.08:803][649]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2019.11.18-10.40.08:804][649]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2019.11.18-10.40.08:804][649]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2019.11.18-10.40.08:804][649]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2019.11.18-10.40.08:805][649]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.18-10.40.08:805][649]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.18-10.40.08:860][649]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.18-10.40.08:874][649]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.18-10.40.08:875][649]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.18-10.40.08:875][649]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.18-10.40.08:876][649]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.18-10.40.08:891][649]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.18-10.40.08:892][649]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.18-10.40.08:938][649]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.18-10.40.08:938][649]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.18-10.40.08:938][649]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.18-10.40.08:955][649]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.18-10.40.08:955][649]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.18-10.40.08:955][649]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.18-10.40.08:955][649]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.18-10.40.08:955][649]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.18-10.40.10:237][649]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.18-10.40.10:237][649]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.18-10.40.10:237][649]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.18-10.40.10:237][649]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.18-10.40.10:238][649]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.18-10.40.10:238][649]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.18-10.40.10:334][649]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.18-10.40.10:334][649]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.18-10.40.10:335][649]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.18-10.40.10:354][649]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.18-10.40.10:354][649]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.18-10.40.10:354][649]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.18-10.40.10:377][649]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.18-10.40.10:377][649]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.18-10.40.10:377][649]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.18-10.40.10:377][649]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.18-10.40.10:378][649]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.18-10.40.10:378][649]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.18-10.40.10:395][649]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.18-10.40.10:416][649]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.18-10.40.10:416][649]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.18-10.40.10:435][649]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.18-10.40.10:435][649]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.18-10.40.10:479][649]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.18-10.40.10:479][649]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.18-10.40.10:497][649]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.18-10.40.10:543][649]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.18-10.40.10:543][649]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.18-10.40.10:544][649]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.18-10.40.10:544][649]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.18-10.40.10:555][649]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.18-10.40.10:575][649]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.18-10.40.10:576][649]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.18-10.40.10:576][649]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.18-10.40.10:596][649]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.18-10.40.10:596][649]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.18-10.40.10:596][649]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.18-10.40.10:596][649]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.18-10.40.10:617][649]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.18-10.40.10:618][649]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.18-10.40.10:618][649]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.18-10.40.10:630][649]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.18-10.40.10:630][649]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.18-10.40.10:643][649]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.18-10.40.10:644][649]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.18-10.40.10:644][649]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.18-10.40.10:644][649]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.18-10.40.10:644][649]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.18-10.40.10:655][649]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.18-10.40.10:777][649]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.18-10.40.10:783][649]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.18-10.40.10:784][649]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.18-10.40.10:785][649]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.18-10.40.10:786][649]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.18-10.40.10:786][649]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.18-10.40.10:786][649]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.18-10.40.10:786][649]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.18-10.40.10:786][649]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.18-10.40.10:803][649]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.18-10.40.10:803][649]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.18-10.40.10:803][649]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.18-10.40.10:803][649]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.18-10.40.10:803][649]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.18-10.40.10:804][649]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.18-10.40.10:804][649]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.18-10.40.10:804][649]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.18-10.40.10:812][649]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.18-10.40.10:813][649]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.18-10.40.10:828][649]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.18-10.40.10:930][649]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.18-10.40.11:030][649]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.18-10.40.11:030][649]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.18-10.40.11:031][649]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.18-10.40.11:031][649]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.18-10.40.11:031][649]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.18-10.40.11:032][649]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.18-10.40.11:032][649]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.18-10.40.11:032][649]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.18-10.40.11:153][649]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.18-10.40.11:154][649]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.18-10.40.11:155][649]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.18-10.40.11:155][649]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.18-10.40.11:155][649]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.18-10.40.11:156][649]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.18-10.40.11:158][649]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.18-10.40.11:159][649]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.18-10.40.11:160][649]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.18-10.40.11:160][649]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.18-10.40.11:177][649]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.18-10.40.11:177][649]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.18-10.40.11:177][649]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.18-10.40.11:177][649]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.18-10.40.11:177][649]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.18-10.40.11:199][649]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.18-10.40.11:200][649]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.18-10.40.11:216][649]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.18-10.40.11:216][649]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.18-10.40.11:231][649]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.18-10.40.11:232][649]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.18-10.40.11:232][649]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.18-10.40.11:232][649]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.18-10.40.11:232][649]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.18-10.40.11:232][649]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.18-10.40.11:302][649]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.18-10.40.11:302][649]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.18-10.40.11:306][649]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.18-10.40.11:307][649]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.18-10.40.11:307][649]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.18-10.40.11:307][649]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.18-10.40.11:322][649]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.18-10.40.11:322][649]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.18-10.40.11:322][649]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.18-10.40.11:342][649]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.18-10.40.11:357][649]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.18-10.40.11:357][649]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.18-10.40.11:369][649]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.18-10.40.11:469][649]LogDerivedDataCache: Shutdown
+[2019.11.18-10.40.11:470][649]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.18-10.40.11:470][649]LogXGEController: Cleaning working directory: C:/Users/Andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-10.40.11:471][649]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.18-10.40.11:471][649]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.18-10.40.11:471][649]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.18-10.40.11:471][649]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.18-10.40.11:487][649]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.18-10.40.11:488][649]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.18-10.40.11:499][649]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.18-10.40.11:499][649]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.18-10.40.11:500][649]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.18-10.40.11:502][649]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.18-10.40.11:502][649]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.18-10.40.11:503][649]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.18-10.40.11:503][649]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.18-10.40.11:503][649]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.18-10.40.11:505][649]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.18-10.40.11:505][649]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.18-10.40.11:507][649]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.18-10.40.11:507][649]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.18-10.40.11:521][649]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.18-10.40.11:521][649]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.18-10.40.11:522][649]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.18-10.40.11:523][649]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.18-10.40.11:523][649]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.18-10.40.11:526][649]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.18-10.40.11:540][649]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.18-10.40.11:580][649]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.18-10.40.11:580][649]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.18-10.40.11:580][649]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A078285-4677-DEA6-FD86-8E9F85BB2ECE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f1d1c7642d3a27c46a2c4b7e9bfbd70%7Cb2cdfafcca8f440ca0e7bf9979c682b9%7Cd4f8f15e-f26d-490d-8302-f436536fc766&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.18-10.40.11:586][649]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.18-10.40.11:589][649]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.18-10.40.11:616][649]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.18-10.40.11:624][649]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.18-10.40.11:624][649]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.18-10.40.11:625][649]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.18-10.40.11:634][649]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.18-10.40.11:634][649]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.18-10.40.11:635][649]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.18-10.40.11:635][649]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.18-10.40.11:635][649]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.18-10.40.11:635][649]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.18-10.40.11:647][649]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.18-10.40.11:659][649]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.18-10.40.11:659][649]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.18-10.40.11:659][649]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.18-10.40.11:659][649]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.18-10.40.11:659][649]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.18-10.40.11:660][649]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.18-10.40.11:660][649]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.18-10.40.11:661][649]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.18-10.40.11:661][649]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.18-10.40.11:661][649]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.18-10.40.11:661][649]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.18-10.40.11:703][649]LogExit: Exiting.
+[2019.11.18-10.40.11:782][649]Log file closed, 11/18/19 21:40:11
