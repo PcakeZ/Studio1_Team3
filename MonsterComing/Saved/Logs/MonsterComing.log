@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/21/19 15:55:13
+=======
+﻿Log file open, 11/21/19 16:06:50
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: MonsterComing
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.078956
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282235
+>>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -121,13 +130,21 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: Radeon RX 590 Series
+=======
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+>>>>>>> master
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
 LogInit: Command Line: 
+<<<<<<< HEAD
 LogInit: Base Directory: D:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+>>>>>>> master
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -157,6 +174,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.11.21-04.55.14:311][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.21-04.55.14:311][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.11.21-04.55.14:311][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
@@ -10676,3 +10694,1147 @@ Script call stack:
 [2019.11.21-08.43.10:233][362]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2019.11.21-08.43.10:243][362]LogExit: Exiting.
 [2019.11.21-08.43.10:273][362]Log file closed, 11/21/19 19:43:10
+=======
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:894][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.21-05.06.51:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.21-05.06.51:913][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.21-05.06.51:913][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-05.06.51:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.21-05.06.51:935][  0]LogHAL: Display: Platform has ~ 32 GB [34308431872 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.21-05.06.51:935][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.21-05.06.51:935][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.21-05.06.51:935][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.21-05.06.51:936][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-05.06.51:936][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.21-05.06.51:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.21-05.06.51:937][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.21-05.06.51:942][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.21-05.06.51:942][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.21-05.06.51:942][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/Studio1_Team3/MonsterComing/Saved/Config/Windows/Engine.ini]
+[2019.11.21-05.06.51:942][  0]LogInit: Computer: ANDREWS-DESKTOP
+[2019.11.21-05.06.51:942][  0]LogInit: User: Andrew
+[2019.11.21-05.06.51:942][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.21-05.06.51:942][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.21-05.06.51:942][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.11.21-05.06.51:942][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.21-05.06.51:942][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.01 MB peak
+[2019.11.21-05.06.51:942][  0]LogMemory: Process Virtual Memory: 102.64 MB used, 102.64 MB peak
+[2019.11.21-05.06.51:942][  0]LogMemory: Physical Memory: 8983.18 MB used,  23735.89 MB free, 32719.07 MB total
+[2019.11.21-05.06.51:942][  0]LogMemory: Virtual Memory: 4655.83 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.21-05.06.52:190][  0]LogInit: Using OS detected language (en-GB).
+[2019.11.21-05.06.52:190][  0]LogInit: Using OS detected locale (en-AU).
+[2019.11.21-05.06.52:190][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.11.21-05.06.52:731][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.21-05.06.52:946][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.21-05.06.52:946][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.21-05.06.55:477][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.21-05.06.55:477][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.21-05.06.55:540][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.11.21-05.06.55:540][  0]LogD3D11RHI:       4043/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.11.21-05.06.55:544][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.21-05.06.55:544][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.21-05.06.55:544][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.21-05.06.55:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.21-05.06.55:551][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.21-05.06.55:551][  0]LogWindows: EnumDisplayDevices:
+[2019.11.21-05.06.55:551][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.11.21-05.06.55:551][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.11.21-05.06.55:552][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.11.21-05.06.55:552][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.11.21-05.06.55:552][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.21-05.06.55:552][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.11.21-05.06.55:552][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.11.21-05.06.55:552][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.11.21-05.06.55:552][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.11.21-05.06.55:595][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.21-05.06.55:614][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.21-05.06.55:614][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.21-05.06.55:614][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.21-05.06.55:622][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.21-05.06.59:862][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.21-05.07.00:476][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.21-05.07.02:073][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.21-05.07.02:090][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.21-05.07.03:838][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.21-05.07.05:586][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.21-05.07.05:607][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.21-05.07.05:980][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.21-05.07.07:122][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.21-05.07.07:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.21-05.07.07:968][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.21-05.07.08:145][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.21-05.07.08:145][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.21-05.07.08:176][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.21-05.07.08:176][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.21-05.07.08:195][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.21-05.07.08:209][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.21-05.07.08:223][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.21-05.07.08:236][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.21-05.07.08:306][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.21-05.07.08:306][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.21-05.07.08:306][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.21-05.07.08:407][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.21-05.07.08:776][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Github/Studio1_Team3/MonsterComing/Intermediate/Shaders/WorkingDirectory/19128/).
+[2019.11.21-05.07.08:776][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andrew/AppData/Local/Temp/UnrealShaderWorkingDir/01A6C2824D2305C8A461FC9755F4509B/'.
+[2019.11.21-05.07.08:791][  0]LogXGEController: Cleaning working directory: C:/Users/Andrew/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.21-05.07.08:792][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.21-05.07.08:792][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.21-05.07.08:792][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.21-05.07.11:498][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.21-05.07.11:810][  0]LogDerivedDataCache: Loaded boot cache 0.31s 71MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.21-05.07.11:810][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andrew/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.21-05.07.11:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Github/Studio1_Team3/MonsterComing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.21-05.07.11:811][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.21-05.07.11:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Github/Studio1_Team3/MonsterComing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.21-05.07.11:811][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.21-05.07.11:824][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.21-05.07.11:824][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.21-05.07.11:824][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.21-05.07.11:836][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.21-05.07.11:836][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.21-05.07.11:836][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.21-05.07.11:858][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.21-05.07.11:859][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.21-05.07.11:883][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.21-05.07.12:423][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2019.11.21-05.07.12:874][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-05.07.13:163][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.21-05.07.13:163][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.21-05.07.13:163][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.21-05.07.13:163][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.21-05.07.13:163][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.21-05.07.13:179][  0]LogNetVersion: MonsterComing 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1620694314)
+[2019.11.21-05.07.13:611][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037742 seconds
+[2019.11.21-05.07.13:618][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.21-05.07.13:618][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.21-05.07.13:618][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.21-05.07.20:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.21-05.07.20:301][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.21-05.07.20:739][  0]SourceControl: Source control is disabled
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:740][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:741][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.21-05.07.20:765][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:765][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.21-05.07.20:766][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:767][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.21-05.07.20:767][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:767][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:786][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.20:787][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.21-05.07.21:386][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.21-05.07.21:973][  0]LogOcInput: OculusInput pre-init called
+[2019.11.21-05.07.22:759][  0]LogEngine: Initializing Engine...
+[2019.11.21-05.07.22:786][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.21-05.07.22:787][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.21-05.07.22:995][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.21-05.07.23:050][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.21-05.07.23:228][  0]LogInit: XAudio2 using 'Headphones (2- Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.21-05.07.23:259][  0]LogInit: FAudioDevice initialized.
+[2019.11.21-05.07.23:259][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.21-05.07.23:437][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.21-05.07.23:446][  0]LogInit: Texture streaming: Enabled
+[2019.11.21-05.07.23:495][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.21-05.07.23:555][  0]LogInit: Transaction tracking system initialized
+[2019.11.21-05.07.23:696][  0]BlueprintLog: New page: Editor Load
+[2019.11.21-05.07.24:203][  0]LocalizationService: Localization service is disabled
+[2019.11.21-05.07.25:400][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Github/Studio1_Team3/MonsterComing/Content/ as it will conflict with another watching ../../../../../../Github/Studio1_Team3/MonsterComing/Content/.
+[2019.11.21-05.07.25:417][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Studio1_Team3/MonsterComing/Content/' took 0.01s
+[2019.11.21-05.07.25:417][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.21-05.07.25:417][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:803][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: URL: C:\Users\Andrew\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.11.21-05.07.27:804][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.11.21-05.07.27:804][  0]Cmd: MAP LOAD FILE="../../../../../../Github/Studio1_Team3/MonsterComing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.21-05.07.27:804][  0]LogEditorServer: Warning: Can't find file '../../../../../../Github/Studio1_Team3/MonsterComing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.21-05.07.27:804][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.21-05.07.27:804][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2019.11.21-05.07.27:804][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2019.11.21-05.07.28:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.07.28:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.07.28:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.07.28:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.07.28:416][  0]LogCollectionManager: Loaded 0 collections in 0.000757 seconds
+[2019.11.21-05.07.28:436][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Studio1_Team3/MonsterComing/Saved/Collections/' took 0.01s
+[2019.11.21-05.07.28:436][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Studio1_Team3/MonsterComing/Content/Developers/Andrew/Collections/' took 0.00s
+[2019.11.21-05.07.28:436][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Studio1_Team3/MonsterComing/Content/Collections/' took 0.00s
+[2019.11.21-05.07.28:436][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.21-05.07.28:444][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2741 classes and 664 folders.
+[2019.11.21-05.07.28:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.21-05.07.28:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.28:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.21-05.07.29:111][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.21-05.07.29:136][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.21-05.07.29:176][  0]LogSlate: Took 0.017578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.21-05.07.29:195][  0]LogSlate: Took 0.016400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.21-05.07.29:324][  0]LogRenderer: Reallocating scene render targets to support 1092x600 Format 10 NumSamples 1 (Frame:1).
+[2019.11.21-05.07.29:448][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.21-05.07.29:448][  0]LogLoad: (Engine Initialization) Total time: 42.09 seconds
+[2019.11.21-05.07.29:448][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.21-05.07.29:497][  0]LogAssetRegistry: Asset discovery search completed in 17.0980 seconds
+[2019.11.21-05.07.29:500][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.21-05.07.29:500][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.11.21-05.07.29:503][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.21-05.07.29:519][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Github/Studio1_Team3/MonsterComing/Content/' took 0.05s
+[2019.11.21-05.08.09:984][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-05.08.10:123][662]LogSlate: Took 0.036265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.21-05.08.10:176][662]LogSlate: Took 0.032116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-05.08.14:897][207]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-05.08.15:993][207]LogMaterial: Display: Missing cached shader map for material Machine_5_Machine_5, compiling. 
+[2019.11.21-05.08.15:994][207]LogMaterial: Warning: D:\Github\Studio1_Team3\MonsterComing\Content\Assets\Machine_5_Machine_5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.21-05.08.15:994][207]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Machine_5_Machine_5_MainTex.Machine_5_Machine_5_MainTex
+[2019.11.21-05.08.16:412][207]LogAIModule: Creating AISystem for world Level1
+[2019.11.21-05.08.16:440][207]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/Maps/Level1.Level1
+[2019.11.21-05.08.16:475][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.11.21-05.08.16:476][207]Cmd: MAP LOAD FILE="../../../../../../Github/Studio1_Team3/MonsterComing/Content/Assets/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.21-05.08.16:476][207]LightingResults: New page: Lighting Build
+[2019.11.21-05.08.16:490][207]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.11.21-05.08.16:491][207]LoadErrors: New page: Loading map: Level1.umap
+[2019.11.21-05.08.16:491][207]MapCheck: New page: Map Check
+[2019.11.21-05.08.16:491][207]LightingResults: New page: Lighting Build
+[2019.11.21-05.08.16:515][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.11.21-05.08.16:541][207]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.21-05.08.16:566][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.21-05.08.16:613][207]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.21-05.08.16:614][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.11.21-05.08.16:614][207]LogFileHelpers: Loading map 'Level1' took 0.139
+[2019.11.21-05.08.19:394][522]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-05.08.19:417][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.19:418][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-05.08.19:418][522]PIE: New page: PIE session: Level1 (22 Nov 2019 3:08:19 am)
+[2019.11.21-05.08.19:431][522]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Level1
+[2019.11.21-05.08.19:453][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022059s)
+[2019.11.21-05.08.19:454][522]LogAIModule: Creating AISystem for world Level1
+[2019.11.21-05.08.19:454][522]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.11.21-05.08.19:454][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Level1.Level1 to /Game/Assets/Maps/UEDPIE_0_Level1.Level1 (0.023199s)
+[2019.11.21-05.08.19:479][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.11.21-05.08.19:643][522]LogInit: XAudio2 using 'Headphones (2- Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.21-05.08.19:657][522]LogInit: FAudioDevice initialized.
+[2019.11.21-05.08.19:702][522]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.21-05.08.19:708][522]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.11.21-16.08.19
+[2019.11.21-05.08.19:709][522]LogWorld: Bringing up level for play took: 0.005674
+[2019.11.21-05.08.19:740][522]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.21-05.08.19:741][522]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_0_Level1 -0.508
+[2019.11.21-05.08.19:741][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.19:783][523]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/Widgets/IngameUI.IngameUI_C:GetText_0
+
+[2019.11.21-05.08.23:273][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2019.11.21-05.08.23:273][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2019.11.21-05.08.28:791][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.28:792][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.08.28:822][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-05.08.28:822][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.28:851][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.08.28:854][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.21-05.08.28:906][606]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.21-05.08.29:829][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-05.08.41:866][ 28]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Door_Drll/testDrill.testDrill
+[2019.11.21-05.08.42:169][ 28]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.11.21-05.08.43:131][ 28]LogSlate: Took 0.010981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.21-05.08.43:225][ 29]LogSlate: Took 0.032248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.21-05.08.48:393][467]LogRenderer: Reallocating scene render targets to support 1144x692 Format 10 NumSamples 1 (Frame:1).
+[2019.11.21-05.08.50:227][618]LogSlate: Window 'testDrill' being destroyed
+[2019.11.21-05.08.50:232][618]LogSlate: Window 'testDrill' being destroyed
+[2019.11.21-05.08.53:127][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-05.08.53:159][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.53:159][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-05.08.53:160][947]PIE: New page: PIE session: Level1 (22 Nov 2019 3:08:53 am)
+[2019.11.21-05.08.53:160][947]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Level1
+[2019.11.21-05.08.53:177][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017030s)
+[2019.11.21-05.08.53:177][947]LogAIModule: Creating AISystem for world Level1
+[2019.11.21-05.08.53:178][947]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2019.11.21-05.08.53:178][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Level1.Level1 to /Game/Assets/Maps/UEDPIE_0_Level1.Level1 (0.018104s)
+[2019.11.21-05.08.53:220][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.21-05.08.53:396][947]LogInit: XAudio2 using 'Headphones (2- Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.21-05.08.53:410][947]LogInit: FAudioDevice initialized.
+[2019.11.21-05.08.53:438][947]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.21-05.08.53:442][947]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.11.21-16.08.53
+[2019.11.21-05.08.53:443][947]LogWorld: Bringing up level for play took: 0.004537
+[2019.11.21-05.08.53:457][947]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_0_Level1 1.207
+[2019.11.21-05.08.53:457][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.08.53:511][948]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/Widgets/IngameUI.IngameUI_C:GetText_0
+
+[2019.11.21-05.09.03:218][106]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.06:052][446]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.09:546][865]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.10:648][997]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.11:823][138]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.12:956][274]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.13:964][395]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.15:056][526]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.17:631][835]LogBlueprintUserMessages: [BP_ResourceSpawner2_5] Resource Spawned
+[2019.11.21-05.09.41:349][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors1' of length 0 in '/Game/Assets/Blueprints/Player_Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2019.11.21-05.10.12:505][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.21-05.10.12:918][441]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.12:918][441]LogBlueprintUserMessages: [BP_AI_Swarm_C_0] 10.0
+[2019.11.21-05.10.12:927][442]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.12:927][442]LogBlueprintUserMessages: [BP_AI_Swarm_C_0] 10.0
+[2019.11.21-05.10.15:333][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.21-05.10.15:744][772]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.15:744][772]LogBlueprintUserMessages: [BP_AI_Swarm_C_0] 10.0
+[2019.11.21-05.10.15:752][773]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.15:752][773]LogBlueprintUserMessages: [BP_AI_Swarm_C_0] 10.0
+[2019.11.21-05.10.25:435][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.21-05.10.25:839][964]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.25:839][964]LogBlueprintUserMessages: [BP_AI_Swarm_C_2] 10.0
+[2019.11.21-05.10.25:848][965]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.25:848][965]LogBlueprintUserMessages: [BP_AI_Swarm_C_2] 10.0
+[2019.11.21-05.10.25:856][966]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.25:856][966]LogBlueprintUserMessages: [BP_AI_Swarm_C_2] 10.0
+[2019.11.21-05.10.25:865][967]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.25:865][967]LogBlueprintUserMessages: [BP_AI_Swarm_C_2] 10.0
+[2019.11.21-05.10.29:221][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.21-05.10.29:656][393]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2019.11.21-05.10.29:656][393]LogBlueprintUserMessages: [BP_AI_Swarm_C_1] 10.0
+[2019.11.21-05.10.31:432][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] set attack true
+[2019.11.21-05.11.07:348][141]LogBlueprintUserMessages: [BP_AI_Swarm_C_12] Turret Attacked
+[2019.11.21-05.11.15:411][974]LogNet: Browse: /Game/Assets/Maps/UpgradeRoom_1
+[2019.11.21-05.11.15:421][974]LogLoad: LoadMap: /Game/Assets/Maps/UpgradeRoom_1
+[2019.11.21-05.11.15:535][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.21-05.11.15:842][974]LogAIModule: Creating AISystem for world UpgradeRoom_1
+[2019.11.21-05.11.15:843][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.21-05.11.15:849][974]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_UpgradeRoom_1.UpgradeRoom_1 up for play (max tick rate 0) at 2019.11.21-16.11.15
+[2019.11.21-05.11.15:849][974]LogWorld: Bringing up level for play took: 0.006000
+[2019.11.21-05.11.15:859][974]LogLoad: Took 0.437639 seconds to LoadMap(/Game/Assets/Maps/UpgradeRoom_1)
+[2019.11.21-05.11.15:911][975]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Assets/Widgets/IngameUI.IngameUI_C:GetText_0
+
+[2019.11.21-05.11.17:407][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.11.17:408][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.11.17:438][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-05.11.17:439][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Assets/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Assets/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.21-05.11.17:477][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-05.11.17:482][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.21-05.11.17:523][156]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.21-05.11.19:554][395]Cmd: POLY SELECT MEMORY UNION
+[2019.11.21-05.11.30:815][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-05.11.59:417][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-05.12.01:234][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Swarm.BP_AI_Swarm
+[2019.11.21-05.12.16:361][952]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.12.16:737][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.11.21-05.12.23:573][305]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon
+[2019.11.21-05.16.25:884][ 90]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.16.26:239][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.21-05.17.08:383][132]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.17.08:747][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.11.21-05.17.33:258][314]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.17.33:619][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.21-05.18.06:826][960]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.18.07:185][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.21-05.18.11:705][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-05.18.44:605][720]LogEditorTransaction: Undo Move Nodes
+[2019.11.21-05.18.57:595][320]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.18.57:948][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.21-05.20.01:152][ 83]LogEditorTransaction: Undo Delete current selection
+[2019.11.21-05.20.04:796][209]BlueprintLog: New page: Compile BP_AI_Swarm
+[2019.11.21-05.20.05:156][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.21-05.20.06:121][232]LogSavePackage: Moving '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/BP_AI_Swarm893CB347492134B4917860B5D7002CE7.tmp' to '../../../../../../Github/Studio1_Team3/MonsterComing/Content/Assets/Blueprints/Enemy_Blueprints/BP_AI_Swarm.uasset'
+[2019.11.21-05.20.09:126][340]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2019.11.21-05.20.09:127][340]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2019.11.21-05.20.09:132][340]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_2   conflicted with  Event AnyDamage  and was replaced as a Custom Event!
+[2019.11.21-05.20.12:337][434]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.21-05.20.16:796][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2 or K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2
+[2019.11.21-05.20.16:796][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2
+[2019.11.21-05.20.16:796][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2
+[2019.11.21-05.20.16:796][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_AIMoveTo /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_AIMoveTo_0 or K2Node_AIMoveTo /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_AIMoveTo_0
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Self_0 or K2Node_Self /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Self_0
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_19 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_19
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6 or K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_4 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_4
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_4 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_4
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_5 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_5
+[2019.11.21-05.20.16:797][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_6 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_6
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_9 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_9
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_26 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_26
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Self_1 or K2Node_Self /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Self_1
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_21 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_21
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_18 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_18
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_23 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_23
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_52 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_52
+[2019.11.21-05.20.16:798][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_47 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_47
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_4 or K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_4
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_53 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_53
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_13 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_13
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_10 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_10
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_12 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_12
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_15 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_15
+[2019.11.21-05.20.16:799][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_19
+[2019.11.21-05.20.16:800][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_4 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_4
+[2019.11.21-05.20.16:800][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_10 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_10
+[2019.11.21-05.20.16:800][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_8 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_8
+[2019.11.21-05.20.16:800][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_7 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_7
+[2019.11.21-05.20.16:800][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_21 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_21
+[2019.11.21-05.20.16:801][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_27 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_27
+[2019.11.21-05.20.16:801][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_22 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_22
+[2019.11.21-05.20.16:801][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_5 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_5
+[2019.11.21-05.20.16:801][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_7
+[2019.11.21-05.20.16:801][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_8 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_8
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_24 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_24
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_27 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_27
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_1 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_1
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_2
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_3 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_3
+[2019.11.21-05.20.16:802][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_6 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_6
+[2019.11.21-05.20.16:803][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_9 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_9
+[2019.11.21-05.20.16:803][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_11 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_11
+[2019.11.21-05.20.16:803][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_12 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_12
+[2019.11.21-05.20.16:803][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Knot /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Knot_3 or K2Node_Knot /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Knot_3
+[2019.11.21-05.20.16:803][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_20 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_20
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3 or K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_0 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_0
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_1 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_1
+[2019.11.21-05.20.16:804][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_0 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_0
+[2019.11.21-05.20.16:805][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_3 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_3
+[2019.11.21-05.20.16:805][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_1
+[2019.11.21-05.20.16:805][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_28 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_28
+[2019.11.21-05.20.16:805][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_2 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_2
+[2019.11.21-05.20.16:805][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_17 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_17
+[2019.11.21-05.20.16:806][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_29 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_29
+[2019.11.21-05.20.16:806][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_30 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_30
+[2019.11.21-05.20.16:806][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_35 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_35
+[2019.11.21-05.20.16:806][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_4 or K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_4
+[2019.11.21-05.20.16:806][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_3 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_3
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_6 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_6
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_GetArrayItem /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_GetArrayItem_5 or K2Node_GetArrayItem /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_GetArrayItem_5
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_13 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_13
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_35 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_35
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_15 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_15
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_12 or K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_12
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_45 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_45
+[2019.11.21-05.20.16:807][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_51 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_51
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_46 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_46
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_28 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_28
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_6 or K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_6
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_8 or K2Node_CommutativeAssociativeBinaryOperator /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_8
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_12 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_12
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_18
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_13 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_13
+[2019.11.21-05.20.16:808][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_3 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_3
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_11 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_11
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_MacroInstance /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_MacroInstance_0 or K2Node_MacroInstance /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_MacroInstance_0
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_48 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_48
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_13 or K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_13
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_MacroInstance /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_MacroInstance_2 or K2Node_MacroInstance /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_MacroInstance_2
+[2019.11.21-05.20.16:809][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_55 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_55
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_IfThenElse_2
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_6
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_11
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_12 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_12
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_7 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_7
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_8 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_8
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_PlayMontage /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_PlayMontage_0 or K2Node_PlayMontage /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_PlayMontage_0
+[2019.11.21-05.20.16:810][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_1 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_1
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_2 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_2
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_5 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_5
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_DynamicCast /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_DynamicCast_1 or K2Node_DynamicCast /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_DynamicCast_1
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_0 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_0
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_7 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_7
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_11 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_11
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_1 or K2Node_VariableSet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableSet_1
+[2019.11.21-05.20.16:811][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_14 or K2Node_VariableGet /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_VariableGet_14
+[2019.11.21-05.20.16:812][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_0 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_0
+[2019.11.21-05.20.16:812][588]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_4 or EdGraphNode_Comment /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.EdGraphNode_Comment_4
+[2019.11.21-05.20.16:812][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_9 or K2Node_CallFunction /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_CallFunction_9
+[2019.11.21-05.20.16:819][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3
+[2019.11.21-05.20.16:820][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_3
+[2019.11.21-05.20.16:821][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_6
+[2019.11.21-05.20.16:825][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2 or K2Node_CustomEvent /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon:EventGraph.K2Node_Event_2
+[2019.11.21-05.20.32:601][318]LogEditorTransaction: Undo Move Node
+[2019.11.21-05.21.00:558][617]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.21.00:592][617]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.21.00:592][617]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.21.00:592][617]LogBlueprint: Error: [Compiler BP_AI_Recon] Could not find a function named "SetTarget" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Set Target
+[2019.11.21-05.21.00:817][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.21-05.21.00:841][617]LogBlueprint: Warning: [Compiler BP_AI_Recon] [0853.48] Compile of BP_AI_Recon failed. 3 Fatal Issue(s) 0 Warning(s) [in 282 ms] (/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon)
+[2019.11.21-05.21.17:779][400]LogSlate: Took 0.015418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.21-05.21.31:817][ 31]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.21.31:849][ 31]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.21.31:849][ 31]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.21.31:849][ 31]LogBlueprint: Error: [Compiler BP_AI_Recon] Could not find a function named "SetTarget" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Set Target
+[2019.11.21-05.21.32:079][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.21-05.21.32:104][ 31]LogBlueprint: Warning: [Compiler BP_AI_Recon] [0884.75] Compile of BP_AI_Recon failed. 3 Fatal Issue(s) 0 Warning(s) [in 287 ms] (/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon)
+[2019.11.21-05.23.06:043][327]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.23.06:079][327]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.23.06:079][327]LogBlueprint: Error: [Compiler BP_AI_Recon] In use pin  <Unnamed>  no longer exists on node  Set Target . Please refresh node or break links to remove pin.
+[2019.11.21-05.23.06:332][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.11.21-05.23.06:358][327]LogBlueprint: Warning: [Compiler BP_AI_Recon] [0979.00] Compile of BP_AI_Recon failed. 2 Fatal Issue(s) 0 Warning(s) [in 315 ms] (/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon)
+[2019.11.21-05.23.16:306][763]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.23.16:585][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.21-05.23.44:875][283]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.23.44:987][283]LogBlueprint: Warning: [Compiler BP_AI_Recon] Could not find a variable named "CharacterSet" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Get CharacterSet
+[2019.11.21-05.23.44:987][283]LogBlueprint: Warning: [Compiler BP_AI_Recon] Could not find a variable named "CharacterSet" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Set CharacterSet
+[2019.11.21-05.23.44:997][283]LogBlueprint: Error: [Compiler BP_AI_Recon] The property associated with  Character Set  could not be found in '/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon_C'
+[2019.11.21-05.23.44:997][283]LogBlueprint: Error: [Compiler BP_AI_Recon] The property associated with  Character Set  could not be found in '/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon_C'
+[2019.11.21-05.23.45:220][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.21-05.23.45:235][283]LogBlueprint: Warning: [Compiler BP_AI_Recon] [1017.88] Compile of BP_AI_Recon failed. 2 Fatal Issue(s) 2 Warning(s) [in 359 ms] (/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon)
+[2019.11.21-05.24.18:553][117]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.24.18:612][117]LogBlueprint: Warning: [Compiler BP_AI_Recon] Could not find a variable named "CharacterSet" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Get CharacterSet
+[2019.11.21-05.24.18:612][117]LogBlueprint: Warning: [Compiler BP_AI_Recon] Could not find a variable named "CharacterSet" in 'BP_AI_Recon_C'.
+Make sure 'BP_AI_Recon_C' has been compiled for  Set CharacterSet
+[2019.11.21-05.24.18:623][117]LogBlueprint: Error: [Compiler BP_AI_Recon] The property associated with  Character Set  could not be found in '/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon_C'
+[2019.11.21-05.24.18:623][117]LogBlueprint: Error: [Compiler BP_AI_Recon] The property associated with  Character Set  could not be found in '/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon_C'
+[2019.11.21-05.24.18:852][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.21-05.24.18:867][117]LogBlueprint: Warning: [Compiler BP_AI_Recon] [1051.51] Compile of BP_AI_Recon failed. 2 Fatal Issue(s) 2 Warning(s) [in 314 ms] (/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon)
+[2019.11.21-05.24.47:380][530]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.24.47:671][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.11.21-05.24.51:500][713]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.24.51:796][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.21-05.26.21:130][368]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.26.21:426][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.21-05.26.46:830][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.21-05.26.47:137][844]LogSavePackage: Moving '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/Level1_Auto112EB743C4628F1C821165E8831CBD8F0.tmp' to '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/Autosaves/Game/Assets/Maps/Level1_Auto1.umap'
+[2019.11.21-05.26.47:143][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/Level1' took 0.352
+[2019.11.21-05.26.47:143][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.352
+[2019.11.21-05.26.47:145][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon] ([1] browsable assets)...
+[2019.11.21-05.26.47:158][844]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.BP_AI_Recon]
+[2019.11.21-05.26.47:158][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon]
+[2019.11.21-05.26.47:317][844]LogSavePackage: Moving '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/BP_AI_Recon_Auto16FEAFF3D465E79CA08ABC1930AD6DD17.tmp' to '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/Autosaves/Game/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon_Auto1.uasset'
+[2019.11.21-05.26.47:318][844]LogFileHelpers: Auto-saving content packages took 0.173
+[2019.11.21-05.59.50:864][698]BlueprintLog: New page: Compile BP_AI_Recon
+[2019.11.21-05.59.51:195][698]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.11.21-05.59.51:819][720]LogSlate: Window 'BP_AI_Recon' being destroyed
+[2019.11.21-05.59.51:826][720]LogSlate: Window 'BP_AI_Recon' being destroyed
+[2019.11.21-05.59.53:351][828]LogSlate: Window 'BP_AI_Swarm' being destroyed
+[2019.11.21-05.59.53:357][828]LogSlate: Window 'BP_AI_Swarm' being destroyed
+[2019.11.21-05.59.53:358][828]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-05.59.54:706][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.21-05.59.56:409][968]LogSlate: Window 'Save Content' being destroyed
+[2019.11.21-05.59.56:613][968]LogSavePackage: Moving '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/BP_AI_ReconB24AB57B4E7EFB9959E3BDA56B81E568.tmp' to '../../../../../../Github/Studio1_Team3/MonsterComing/Content/Assets/Blueprints/Enemy_Blueprints/BP_AI_Recon.uasset'
+[2019.11.21-05.59.56:622][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Level1" FILE="../../../../../../Github/Studio1_Team3/MonsterComing/Content/Assets/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.21-05.59.56:653][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.21-05.59.56:948][968]LogSavePackage: Moving '../../../../../../Github/Studio1_Team3/MonsterComing/Saved/Level183F1DF4445F87565AB55D395C343F222.tmp' to '../../../../../../Github/Studio1_Team3/MonsterComing/Content/Assets/Maps/Level1.umap'
+[2019.11.21-05.59.57:016][968]LogFileHelpers: Saving map 'Level1' took 0.394
+[2019.11.21-05.59.57:172][968]LogSlate: Window 'MonsterComing - Unreal Editor' being destroyed
+[2019.11.21-05.59.57:172][968]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.21-05.59.57:417][969]Cmd: QUIT_EDITOR
+[2019.11.21-05.59.57:480][969]LogExit: Preparing to exit.
+[2019.11.21-05.59.58:073][969]LogExit: Editor shut down
+[2019.11.21-05.59.58:073][969]LogExit: Transaction tracking system shut down
+[2019.11.21-05.59.58:402][969]LogExit: Object subsystem successfully closed.
+[2019.11.21-05.59.58:423][969]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.21-05.59.58:432][969]LogD3D11RHI: Shutdown
+[2019.11.21-05.59.58:432][969]LogD3D11RHI: CleanupD3DDevice
+[2019.11.21-05.59.58:432][969]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.21-05.59.58:433][969]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-05.59.58:433][969]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.21-05.59.58:433][969]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-05.59.58:433][969]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.21-05.59.58:433][969]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-05.59.58:567][969]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module BlueprintGraph (652)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module StatsViewer (646)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.11.21-05.59.58:578][969]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2019.11.21-05.59.58:579][969]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2019.11.21-05.59.58:580][969]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2019.11.21-05.59.59:509][969]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2019.11.21-05.59.59:510][969]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2019.11.21-05.59.59:565][969]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2019.11.21-05.59.59:572][969]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2019.11.21-05.59.59:573][969]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2019.11.21-05.59.59:576][969]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2019.11.21-05.59.59:630][969]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.11.21-05.59.59:631][969]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.21-05.59.59:632][969]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.21-05.59.59:733][969]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.21-05.59.59:834][969]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.21-05.59.59:834][969]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.21-05.59.59:834][969]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.21-05.59.59:834][969]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.21-05.59.59:834][969]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.21-05.59.59:841][969]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.21-05.59.59:842][969]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.21-05.59.59:843][969]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.21-05.59.59:843][969]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.21-05.59.59:843][969]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.21-05.59.59:844][969]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.21-05.59.59:845][969]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.21-05.59.59:847][969]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.21-05.59.59:946][969]LogDerivedDataCache: Shutdown
+[2019.11.21-05.59.59:946][969]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.21-05.59.59:946][969]LogXGEController: Cleaning working directory: C:/Users/Andrew/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.21-05.59.59:947][969]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.21-05.59.59:948][969]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.21-05.59.59:949][969]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.21-05.59.59:949][969]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.21-05.59.59:956][969]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.21-05.59.59:956][969]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.21-05.59.59:957][969]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.21-05.59.59:957][969]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.21-05.59.59:970][969]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.21-05.59.59:970][969]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.21-05.59.59:970][969]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3C3FF87-4126-C6AD-DED4-22BF5D6AD1B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3e4bdf1d43a63db6af2ff8aa45664d53%7Cb2cdfafcca8f440ca0e7bf9979c682b9%7C0c5fec02-7913-4f0a-8e98-b9db1c5971fe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.21-06.00.00:002][969]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.21-06.00.00:003][969]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.21-06.00.00:005][969]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.21-06.00.00:011][969]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.21-06.00.00:011][969]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.21-06.00.00:011][969]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.21-06.00.00:012][969]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.21-06.00.00:013][969]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.21-06.00.00:020][969]LogExit: Exiting.
+[2019.11.21-06.00.00:076][969]Log file closed, 11/21/19 17:00:00
+>>>>>>> master
