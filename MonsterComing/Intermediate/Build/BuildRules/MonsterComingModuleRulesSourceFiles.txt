@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 D:\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.Build.cs
 D:\Studio1_Team3\MonsterComing\Source\MonsterComing.Target.cs
 D:\Studio1_Team3\MonsterComing\Source\MonsterComingEditor.Target.cs
+=======
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.Build.cs
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Source\MonsterComing.Target.cs
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Source\MonsterComingEditor.Target.cs
+>>>>>>> Stashed changes

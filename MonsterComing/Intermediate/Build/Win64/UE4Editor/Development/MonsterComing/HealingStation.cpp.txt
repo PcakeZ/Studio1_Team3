@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
 d:\studio1_team3\monstercoming\source\monstercoming\HealingStation.h
 D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
+=======
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Source\MonsterComing\HealingStation.h
+C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
+>>>>>>> Stashed changes
