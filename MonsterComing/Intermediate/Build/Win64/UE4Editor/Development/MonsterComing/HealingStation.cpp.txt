@@ -1,3 +1,3 @@
-D:\Github\New Studio1\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
-d:\github\new studio1\studio1_team3\monstercoming\source\monstercoming\HealingStation.h
-D:\Github\New Studio1\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
+C:\Users\aradford\Documents\Git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+c:\users\aradford\documents\git\studio1_team3\monstercoming\source\monstercoming\HealingStation.h
+C:\Users\aradford\Documents\Git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
