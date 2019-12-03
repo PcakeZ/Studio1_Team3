@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MonsterComing.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{97A5279A-CD01-4E58-9F04-168880EEE7D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonsterComing.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonsterComingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A7B9F117-6A21-4CF9-AD1F-7ABC008B609B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MonsterComing">
+      <UniqueIdentifier>{37D4C3CD-44F0-4146-A09C-6554F5783A31}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MonsterComing\Barrier.cpp">
+      <Filter>Source\MonsterComing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonsterComing\Barrier.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonsterComing\HealingStation.cpp">
+      <Filter>Source\MonsterComing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonsterComing\HealingStation.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MonsterComing\MonsterComing.Build.cs">
+      <Filter>Source\MonsterComing</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MonsterComing\MonsterComing.cpp">
+      <Filter>Source\MonsterComing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonsterComing\MonsterComing.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
