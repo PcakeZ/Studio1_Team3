@@ -1,3 +1,3 @@
-C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
-C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Source\MonsterComing\Barrier.h
-C:\Users\Andre\Documents\GitHub\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\Barrier.generated.h
+D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+d:\good stuff\git\studio1_team3\monstercoming\source\monstercoming\Barrier.h
+D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\Barrier.generated.h
