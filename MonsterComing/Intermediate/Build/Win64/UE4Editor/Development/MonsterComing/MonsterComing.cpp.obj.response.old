@@ -426,21 +426,20 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing"
-/I "D:\Good stuff\git\Studio1_Team3\MonsterComing\Source"
-/I "D:\Good stuff\git\Studio1_Team3\MonsterComing\Source\MonsterComing"
+/I D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing
+/I D:\Studio1_Team3\MonsterComing\Source
+/I D:\Studio1_Team3\MonsterComing\Source\MonsterComing
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Good stuff\git\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.cpp"
-/FI"D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h"
-/Fo"D:\Good stuff\git\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\MonsterComing.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\MonsterComingEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.cpp"
+/FI"D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h"
+/Fo"D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\MonsterComing.cpp.obj"
 /TP
 /GR-
 /W4
