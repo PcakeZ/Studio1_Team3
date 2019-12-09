@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MonsterComing.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{97A5279A-CD01-4E58-9F04-168880EEE7D4}</UniqueIdentifier>
+      <UniqueIdentifier>{51AB8C0A-1832-4C4D-A499-9EEAB81F032E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MonsterComing.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\MonsterComingEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Scanned3DPeoplePack.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{A7B9F117-6A21-4CF9-AD1F-7ABC008B609B}</UniqueIdentifier>
+      <UniqueIdentifier>{18A2F49E-5F90-4B20-979E-2BFB1DF06E8A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +31,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MonsterComing">
-      <UniqueIdentifier>{37D4C3CD-44F0-4146-A09C-6554F5783A31}</UniqueIdentifier>
+      <UniqueIdentifier>{5DB4D2AE-47DE-41DC-B9A2-AECD59A7E362}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\MonsterComing\Barrier.cpp">
       <Filter>Source\MonsterComing</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MonsterComing\Barrier.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonsterComing\BossInitialiser.cpp">
+      <Filter>Source\MonsterComing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonsterComing\BossInitialiser.h">
       <Filter>Source\MonsterComing</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\MonsterComing\HealingStation.cpp">
@@ -53,5 +60,15 @@
     <ClInclude Include="..\..\Source\MonsterComing\MonsterComing.h">
       <Filter>Source\MonsterComing</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MonsterComing\MyTriggerBox.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MonsterComing\MyTriggerBox.cpp">
+      <Filter>Source\MonsterComing</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
