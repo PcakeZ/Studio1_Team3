@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MONSTERCOMING_HealingStation_generated_h
 
-#define MonsterComing_Source_MonsterComing_HealingStation_h_12_RPC_WRAPPERS
-#define MonsterComing_Source_MonsterComing_HealingStation_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define MonsterComing_Source_MonsterComing_HealingStation_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execTestPlayerDistance) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->TestPlayerDistance(); \
+		P_NATIVE_END; \
+	}
+
+
+#define MonsterComing_Source_MonsterComing_HealingStation_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execTestPlayerDistance) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->TestPlayerDistance(); \
+		P_NATIVE_END; \
+	}
+
+
 #define MonsterComing_Source_MonsterComing_HealingStation_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAHealingStation(); \
