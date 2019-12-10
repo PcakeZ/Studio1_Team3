@@ -35,6 +35,10 @@ void AMyTriggerBox::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor* Ot
 void AMyTriggerBox::BeginPlay()
 {
 	Super::BeginPlay();
+	// get player character
+	CollisionCharacter = UGameplayStatics::GetPlayerCharacter(this, 0);
+	BossCharacter = UGameplayStatics::GetPlayerCharacter(this, 0);
+	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AActor::StaticClass(), BossCharacter_01);
 	
 }
 
@@ -45,5 +49,10 @@ void AMyTriggerBox::Tick(float DeltaTime)
 
 }
 
+void AMyTriggerBox::TriggerOperator()
+{
+	for (AActor* TriggerObject : BossCharacter_01)
+	{
 
-
+	}
+}

@@ -1,7 +1,7 @@
-D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
-d:\studio1_team3\monstercoming\source\monstercoming\BossInitialiser.h
-D:\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\BossInitialiser.generated.h
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
-D:\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-D:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-D:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+c:\users\ktsekaiwai\documents\studio1_team3\monstercoming\source\monstercoming\BossInitialiser.h
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\BossInitialiser.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

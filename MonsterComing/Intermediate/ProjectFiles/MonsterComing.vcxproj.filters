@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MonsterComing.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{51AB8C0A-1832-4C4D-A499-9EEAB81F032E}</UniqueIdentifier>
+      <UniqueIdentifier>{FF770084-92E7-452B-9094-50B3BA692BE8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MonsterComing.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\Scanned3DPeoplePack.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{18A2F49E-5F90-4B20-979E-2BFB1DF06E8A}</UniqueIdentifier>
+      <UniqueIdentifier>{70E0C919-2E8D-4470-9CD3-5C5581F93D17}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MonsterComing">
-      <UniqueIdentifier>{5DB4D2AE-47DE-41DC-B9A2-AECD59A7E362}</UniqueIdentifier>
+      <UniqueIdentifier>{EC312206-809B-453A-920A-A17A28A9C957}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\MonsterComing\Barrier.cpp">
       <Filter>Source\MonsterComing</Filter>
@@ -60,15 +60,11 @@
     <ClInclude Include="..\..\Source\MonsterComing\MonsterComing.h">
       <Filter>Source\MonsterComing</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\MonsterComing\MyTriggerBox.h">
-      <Filter>Source\MonsterComing</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\Source\MonsterComing\MyTriggerBox.cpp">
       <Filter>Source\MonsterComing</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\MonsterComing\MyTriggerBox.h">
+      <Filter>Source\MonsterComing</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -188,13 +188,14 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerBox() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BossCharacter_01_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_BossCharacter_01;
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BossCharacter_01_Inner;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_CollisionBox_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CollisionBox;
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_currentHealing_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_currentHealing;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -214,6 +215,14 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerBox() {}
 	};
 #endif
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01_MetaData[] = {
+		{ "Category", "MyTriggerBox" },
+		{ "ModuleRelativePath", "MyTriggerBox.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FArrayPropertyParams Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01 = { "BossCharacter_01", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyTriggerBox, BossCharacter_01), METADATA_PARAMS(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01_Inner = { "BossCharacter_01", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_CollisionBox_MetaData[] = {
 		{ "Category", "MyTriggerBox" },
 		{ "EditInline", "true" },
@@ -221,16 +230,10 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerBox() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_CollisionBox = { "CollisionBox", nullptr, (EPropertyFlags)0x00100000000a000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyTriggerBox, CollisionBox), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_CollisionBox_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_CollisionBox_MetaData)) };
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_currentHealing_MetaData[] = {
-		{ "Category", "Test" },
-		{ "ModuleRelativePath", "MyTriggerBox.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_currentHealing = { "currentHealing", nullptr, (EPropertyFlags)0x0010000000000004, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyTriggerBox, currentHealing), METADATA_PARAMS(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_currentHealing_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_currentHealing_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyTriggerBox_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_BossCharacter_01_Inner,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_CollisionBox,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyTriggerBox_Statics::NewProp_currentHealing,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyTriggerBox_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyTriggerBox>::IsAbstract,
@@ -259,7 +262,7 @@ void EmptyLinkFunctionForGeneratedCodeMyTriggerBox() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyTriggerBox, 1672376437);
+	IMPLEMENT_CLASS(AMyTriggerBox, 3437844565);
 	template<> MONSTERCOMING_API UClass* StaticClass<AMyTriggerBox>()
 	{
 		return AMyTriggerBox::StaticClass();
