@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-D:\Git\New folder\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.Build.cs
-D:\Git\New folder\Studio1_Team3\MonsterComing\Source\MonsterComing.Target.cs
-D:\Git\New folder\Studio1_Team3\MonsterComing\Source\MonsterComingEditor.Target.cs
-=======
-C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.Build.cs
-C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Source\MonsterComing.Target.cs
-C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Source\MonsterComingEditor.Target.cs
->>>>>>> master
+D:\Github\New Studio1\Studio1_Team3\MonsterComing\Source\MonsterComing\MonsterComing.Build.cs
+D:\Github\New Studio1\Studio1_Team3\MonsterComing\Source\MonsterComing.Target.cs
+D:\Github\New Studio1\Studio1_Team3\MonsterComing\Source\MonsterComingEditor.Target.cs

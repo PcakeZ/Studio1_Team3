@@ -2,10 +2,6 @@
 	"BuildId": "5660361",
 	"Modules": 
 	{
-<<<<<<< HEAD
 		"MonsterComing": "UE4Editor-MonsterComing.dll"
-=======
-		"MonsterComing": "UE4Editor-MonsterComing-0008.dll"
->>>>>>> master
 	}
 }
