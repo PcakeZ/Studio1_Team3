@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 D:\Git\New folder\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
 d:\git\new folder\studio1_team3\monstercoming\source\monstercoming\MonsterComing.h
+=======
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+c:\users\ktsekaiwai\documents\studio1_team3\monstercoming\source\monstercoming\MonsterComing.h
+>>>>>>> master

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 D:\Git\New folder\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Git\New folder\Studio1_Team3\MonsterComing\Source\MonsterComing/Barrier.h
 d:\git\new folder\studio1_team3\monstercoming\intermediate\build\win64\ue4editor\inc\monstercoming\Barrier.generated.h
+=======
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Source\MonsterComing/Barrier.h
+c:\users\ktsekaiwai\documents\studio1_team3\monstercoming\intermediate\build\win64\ue4editor\inc\monstercoming\Barrier.generated.h
+>>>>>>> master

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 D:\Git\New folder\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
 d:\git\new folder\studio1_team3\monstercoming\source\monstercoming\HealingStation.h
 D:\Git\New folder\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
+=======
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Development\MonsterComing\Definitions.MonsterComing.h
+c:\users\ktsekaiwai\documents\studio1_team3\monstercoming\source\monstercoming\HealingStation.h
+C:\Users\ktsekaiwai\Documents\Studio1_Team3\MonsterComing\Intermediate\Build\Win64\UE4Editor\Inc\MonsterComing\HealingStation.generated.h
+>>>>>>> master
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Engine.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h

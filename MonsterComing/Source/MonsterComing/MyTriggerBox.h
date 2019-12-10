@@ -4,9 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-
 #include "DrawDebugHelpers.h"
-
+#include "Runtime/Engine/Classes/GameFramework/Character.h"
+#include "Runtime/Engine/Classes/Kismet/GameplayStatics.h"
 #include "MyTriggerBox.generated.h"
 
 UCLASS()
@@ -18,9 +18,16 @@ public:
 	// Sets default values for this actor's properties
 	AMyTriggerBox();
 
-	UPROPERTY(BlueprintReadWrite, Category = "Test")
-		float currentHealing{ 100 };
+	ACharacter* CollisionCharacter = NULL;
+	
 
+	// declare overlap begin function
+	UFUNCTION()
+		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+
+	// declare overlap end function
+	UFUNCTION()
+		void OnOverlapEnd(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
 
 protected:
 	// Called when the game starts or when spawned
@@ -33,14 +40,12 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 		class UBoxComponent* CollisionBox;
 	// constructor sets default values for this actor's properties
+	ACharacter* BossCharacter = NULL;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<AActor*> BossCharacter_01;
 
+	bool isOverlapping = true;
+	void TriggerOperator();
 
-
-	// declare overlap begin function
-	UFUNCTION()
-		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
-
-	// declare overlap end function
-	UFUNCTION()
-		void OnOverlapEnd(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
 };
