@@ -1,4 +1,4 @@
-D:/Good stuff/git/Studio1_Team3/MonsterComing/Intermediate/Build/Win64/MonsterComingEditor/Development/Engine/SharedPCH.Engine.h
+D:/Studio1_Team3/MonsterComing/Intermediate/Build/Win64/MonsterComingEditor/Development/Engine/SharedPCH.Engine.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\CoreTypes.h
